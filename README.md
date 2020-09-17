@@ -1,3 +1,3 @@
 # musicstore
 
-A sample project of me learning how to use golang to build web services
+A sample project using golang to build web services
